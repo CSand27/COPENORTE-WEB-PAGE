@@ -1,0 +1,9 @@
+COPENORTE - Imágenes locales (ES y EN utilizan la misma carpeta)
+
+Todos los archivos .jpeg originales del cliente se conservaron tal cual.
+Para cambiar una fotografía, reemplaza el archivo con el mismo nombre o modifica su entrada en assets/js/images.js.
+Las fotos originales .jpeg son: logo.jpeg, manos-exp.jpeg, diseno-ind.jpeg, CNC.jpeg y el catálogo de servicios agroindustriales.
+Nuevas portadas locales .jpg: portada.jpg, design-hero.jpg, laser-portada.jpg.
+Posters creados desde MP4: design-3d.jpg, chapa-metalica.jpg, ensambles.jpg, doblado-metal.jpg.
+pintura-industrial.jpg es un gráfico temporal, NO una foto real. Sustitúyelo cuando dispongas de una.
+No agregues imágenes duplicadas a en/; las páginas inglesas usan ../assets/img/.
